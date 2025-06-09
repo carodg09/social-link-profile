@@ -32,7 +32,7 @@ body {
 }
 
 h1 {
-    font-size: 1.20rem;
+    font-size: 1.50rem;
     font-weight: 700;
     margin: 0 0 0.7rem 0;
     color: var(--White);
@@ -62,7 +62,7 @@ main {
 }
 
 .ui-container {
-    width: 16rem;
+    width: 18rem;
     margin: auto;
     padding: 1.6rem;
     border-radius: 1rem;
